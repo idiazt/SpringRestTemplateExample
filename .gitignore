@@ -1,0 +1,13 @@
+/target/
+RemoteSystemsTempFiles/
+.classpath
+.project
+.settings/
+bin/
+.metadata/
+docs/*.autosave
+.recommenders/
+build/
+.gradle/
+.DS_Store
+.idea/
